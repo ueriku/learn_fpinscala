@@ -1,2 +1,2 @@
-# learn_fpinscala
-Exercices of the Functional Programming in Scala
+書籍『Scala関数型デザイン&プログラミング』の練習問題の学習用リポジトリ。
+
